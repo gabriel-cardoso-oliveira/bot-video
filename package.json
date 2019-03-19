@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gabriel-cardoso-oliveira/bot-video/issues"
   },
-  "homepage": "https://github.com/gabriel-cardoso-oliveira/bot-video#readme"
+  "homepage": "https://github.com/gabriel-cardoso-oliveira/bot-video#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
